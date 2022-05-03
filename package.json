@@ -1,6 +1,7 @@
 {
 	"author": "Igor Przybysz",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Managing Packages with NPM",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
